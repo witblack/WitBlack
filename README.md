@@ -35,7 +35,7 @@
       <tr>
         <td>3</td>
         <td><a href="https://github.com/witblack/No-IT-Forensic-Medicine">No IT Forensic Medicine</a></td>
-        <td>Security</td>
+        <td>Security - Lost track</td>
         <td>Delete and clean hard disk or RAM for anti recovery and Forensic Medicine.</td>
       </tr>
       <tr>
@@ -59,13 +59,13 @@
       <tr>
         <td>6</td>
         <td><a href="https://github.com/witblack/snake_URLs">snake_URLs</a></td>
-        <td>Hacking</td>
+        <td>Hacking - Information</td>
         <td>Search And Find Report Results From <a href="https://google.com">Google</a> - <a href="https://duckduckgo.com/">DocDocGO</a> - <a href="https://wikipedia.org">Wikipedia</a> And More.</td>
       </tr>
       <tr>
         <td>7</td>
         <td><a href="https://github.com/witblack/Anonymous-Telegram-Viewer">Anonymous Telegram Viewer</a></td>
-        <td>Hacking</td>
+        <td>Hacking - Lost track</td>
         <td>Anonymous View in telegram. While you are block or want see channel without seen.</td>
       </tr>
     </table>
