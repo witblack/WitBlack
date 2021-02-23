@@ -6,7 +6,7 @@
   I a programmer / Eterical hacker. Now i've working on G3nius-Tools for become to best hacking tool. Donate me or buy softwares if you like my scripts or softwares. 🤘👾<br/>
   I always love hacking, So i created many lot of priv8 scripts but i want come world to better and safer, not destroy.
   In fact we live in unstable. I hope to live better and humanility.🌾🗺<br/>
-  Read more at <a href="">My Info page</a>.
+  Read more at <a href="https://github.com/witblack/WitBlack">My Info page</a>.
 </p>
 
 <br/><br/>
