@@ -1,10 +1,3 @@
-<style>
-  th,td,border {
-      border-radius: 10px;
-      text-align: center;
-  }
-</style>
-
 <h1>Hi, Welcome to WitBlack <a href="https://github.com/witblack/">Github</a></h1>
 <hr/></br/>
 
@@ -19,7 +12,7 @@
 <p>
   <h2>List of tools I have created</h2>
   <div align="center">
-    <table border="1">
+    <table border="1" style="border-radius: 10px;text-align: center;">
       <tr>
         <th>ID</th>
         <th>Name</th>
