@@ -26,7 +26,7 @@
         <td><a href="https://github.com/witblack/G3nius-tools">G3nius-Tools</a></td>
         <td>Hacking - Security</td>
         <td>A main script with plugins for hacking and penetration testing.</td>
-        <td>Python 2 & 3</td>
+        <td>Python 2&3</td>
       </tr>
       <tr>
         <td>2</td>
@@ -75,7 +75,7 @@
         <td><a href="https://github.com/witblack/mypubip">My Pub IP</a></td>
         <td>Applied tool</td>
         <td>A first script to get your public IP on internet.</td>
-        <td>Shell ( Bash )</td>
+        <td>Shell (Bash)</td>
       </tr>
     </table>
     </div>
