@@ -71,3 +71,29 @@
     </table>
     </div>
 </p>
+<br/><br/>
+<hr/>
+<h3>Contact us</h3>
+</hr><br/>
+
+<h4>Channels</h4>
+<p>
+  <ul>
+      <li>💬 Telegram: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="Https://t.me/WitBlack_ch">@WitBlack_ch</a></li>
+      <li>💻 Web: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="Https://BugZone.ir">BugZone.ir</a></li>
+      <li>📹 YouTube: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="Https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg">Https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg (WitBlack)</a></li>
+      <li>⌨️ Github: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="Https://github.com/WitBlack">Https://github.com/WitBlack</a></li>
+  </ul>
+</p>
+
+<br/>
+<h4>Contact me</h4>
+<p>
+  <ul>
+      <li>💬 Telegram: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="Https://t.me/WitBlack">@WitBlack</a></li>
+      <li>📱 Instagram: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="https://instagram.com/WitBlack80">@witblack80</a></li>
+      <li>📧 E-Mail: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="mailto:admin@bugzone.ir">admin@bugzone.ir</a></li>
+      <li>💻 Web: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="Https://BugZone.ir">BugZone.ir</a></li>
+      <li>🤙 Phone: &nbps;&nbps;&nbps;&nbps;&nbps; <a href="tel:+989379446362">+98 9379446362</a></li>
+  </ul>
+</p>
