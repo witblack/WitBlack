@@ -1,4 +1,4 @@
-<h1>Hi, Welcome to WitBlack <a href="https://github.com/witblack/">Github</a></h1>
+<h1>Hi, Welcome to WitBlack <a href="https://github.com/witblack/">GitHub</a></h1>
 <hr/></br/>
 
 <p>
