@@ -74,7 +74,7 @@
         <td>8</td>
         <td><a href="https://github.com/witblack/MessageBox-Bomber">MessageBox Bomber</a></td>
         <td>Hacking</td>
-        <td>A bomber tool on windows(s). Have startup and customize settings.</td>
+        <td>A message box bomber tool on windows(s). Have startup and customize settings.</td>
         <td>C#</td>
       </tr>
       <tr>
