@@ -91,6 +91,34 @@
         <td>completely sources.list files (Repositories for APT).</td>
         <td>Shell (Bash)</td>
       </tr>
+      <tr>
+        <td>11</td>
+        <td><a href="https://github.com/witblack/Hardware-Speed-Check">Hardware-Speed-Check</a></td>
+        <td>Computers Challenge</td>
+        <td>A friendly challenge between computers. Who's faster ?</td>
+        <td>Python 3</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td><a href="https://github.com/witblack/Linux-Hardware-LED-games">Linux-hardware-LED-games</a></td>
+        <td>Linux config / Hack & Security</td>
+        <td>Turn Off/On LEDs are connected to your computer. Keyboards,Mouse,Camera LED(s) and etc ...</td>
+        <td>Python 3</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td><a href="https://github.com/witblack/SAPO-sec_nodejs">SAPO-sec_nodejs</a></td>
+        <td>Private , Hack & Security</td>
+        <td>A private system security programed for SAPO Inc.</td>
+        <td>NodeJS</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td><a href="https://github.com/witblack/priv8-SMS-Bomber">Priv8-SMS-Bomber</a></td>
+        <td>Hack & Security</td>
+        <td>A private SMS bomber with about 200 hacked/leaked active SMS panel.</td>
+        <td>Python 3</td>
+      </tr>
     </table>
     </div>
 </p>
