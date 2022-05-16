@@ -23,7 +23,7 @@
       </tr>
       <tr>
         <td>1</td>
-        <td><a href="https://github.com/witblack/G3nius-Tools-framework">G3nius-Tools framework</a></td>
+        <td><a href="https://github.com/witblack/G3nius-Tools-Sploit">G3nius-Tools Sploit</a></td>
         <td>Hacking - Security</td>
         <td>A powerfully user-friendly to Server, Client, Network, Signal exploitation tool.</td>
         <td>Python 3</td>
