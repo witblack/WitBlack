@@ -142,7 +142,7 @@
 <p>
   <ul>
       <li>💬 Telegram:       <a href="Https://t.me/WitBlack">@WitBlack</a></li>
-      <li>📱 Instagram:       <a href="https://instagram.com/WitBlack80">@witblack80</a></li>
+      <li>📱 Instagram:       <a href="https://instagram.com/WitBlack_pv">@witblack80</a></li>
       <li>📧 E-Mail:       <a href="mailto:admin@bugzone.ir">admin@bugzone.ir</a></li>
       <li>💻 Web:       <a href="Https://BugZone.ir">BugZone.ir</a></li>
       <li>🤙 Phone:       <a href="tel:+989379446362">+98 9379446362</a></li>
