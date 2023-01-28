@@ -40,7 +40,7 @@
         <td><a href="https://github.com/witblack/Anonymous-Telegram-Viewer">Anonymous Telegram Viewer</a></td>
         <td>Hacking - Lost track</td>
         <td>Anonymous View in telegram. While you are block or want see channel without seen.</td>
-        <td>Python 2</td>
+        <td>Python 2/3</td>
       </tr>
       <tr>
         <td>4</td>
