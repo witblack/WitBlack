@@ -141,11 +141,8 @@
 <h4>Contact me</h4>
 <p>
   <ul>
-      <li>💬 Telegram:       <a href="Https://t.me/WitBlack">@WitBlack</a></li>
-      <li>📱 Instagram:       <a href="https://instagram.com/WitBlack_pv">@WitBlack_pv</a></li>
       <li>📧 E-Mail:       <a href="mailto:admin@bugzone.ir">admin@bugzone.ir</a></li>
       <li>💻 Web:       <a href="Https://BugZone.ir">BugZone.ir</a></li>
-      <li>🤙 Phone:       <a href="tel:+989379446362">+98 9379446362</a></li>
   </ul>
 </p>
 <br/>
