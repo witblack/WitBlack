@@ -11,6 +11,12 @@
 
 <br/><br/>
 <p>
+  Unfortunately, <b>Some repositories can't be public because of legal issues.</b> So if you see 404 error in some repositories page, that's mean this repository is private!
+Thank you very much for understanding me.
+</p>
+<br/><br/>
+
+<p>
   <h2>List of tools or repositories are I've created</h2>
   <div align="center">
     <table border="1" style="border-radius: 10px;text-align: center;">
