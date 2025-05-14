@@ -2,22 +2,22 @@
 <hr/></br/>
 
 <p>
-  My name is Ali Hasanzadeh. In persion علی حسن زاده .🕺<br/>
+  My name is Ali Hasanzadeh. In persian علی حسن زاده .🕺<br/>
   I a programmer / Eterical hacker. Now i've working on G3nius-Tools for become to best hacking tool. Donate me or buy softwares if you like my scripts or softwares. 🤘👾<br/>
-  I always love hacking, So i created many lot of priv8 scripts but i want come world to better and safer, not destroy.
+  I always love hacking, So i created many lot of priv8 scripts but i want make world to better and safer, not destroy.
   In fact we live in unstable. I hope to live better and humanility.🌾🗺<br/>
   Read more at <a href="https://github.com/witblack/WitBlack">My Info page</a>.
 </p>
 
 <br/><br/>
 <p>
-  Unfortunately, <b>Some repositories can't be public because of legal issues.</b> So if you see 404 error in some repositories page, that's mean this repository is private!
-Thank you very much for understanding me.
+  Unfortunately, <b>Some repositories can't be public because of legal issues.</b> So if you see 404 error in some repositories page, that means this repository is private!
+Thank you very much for understanding.
 </p>
 <br/><br/>
 
 <p>
-  <h2>List of tools or repositories are I've created</h2>
+  <h2>List of tools or repositories that i have created</h2>
   <div align="center">
     <table border="1" style="border-radius: 10px;text-align: center;">
       <tr>
@@ -31,7 +31,7 @@ Thank you very much for understanding me.
         <td>1</td>
         <td><a href="https://github.com/witblack/G3nius-Tools-Sploit">G3nius-Tools Sploit</a></td>
         <td>Hacking - Security</td>
-        <td>A powerfully user-friendly to Server, Client, Network, Signal exploitation tool.</td>
+        <td>A powerfull and user-friendly tool for Server, Client, Network and Signal exploitation.</td>
         <td>Python 3</td>
       </tr>
       <tr>
@@ -45,7 +45,7 @@ Thank you very much for understanding me.
         <td>3</td>
         <td><a href="https://github.com/witblack/Anonymous-Telegram-Viewer">Anonymous Telegram Viewer</a></td>
         <td>Hacking - Lost track</td>
-        <td>Anonymous View in telegram. While you are block or want see channel without seen.</td>
+        <td>Anonymous View in telegram. While you are block or want to see channel without seen.</td>
         <td>Python 2/3</td>
       </tr>
       <tr>
@@ -66,7 +66,7 @@ Thank you very much for understanding me.
         <td>6</td>
         <td><a href="https://github.com/witblack/WitBlack-PHP-DDOSer">WitBlack PHP DDOSer</a></td>
         <td>Hacking</td>
-        <td>WitBlack PHP DDOSer is a mini tool for create DDOS attacks on a target.</td>
+        <td>WitBlack PHP DDOSer is a mini tool for creating DDOS attacks on a target.</td>
         <td>PHP</td>
       </tr>
       <tr>
@@ -80,7 +80,7 @@ Thank you very much for understanding me.
         <td>8</td>
         <td><a href="https://github.com/witblack/MessageBox-Bomber">MessageBox Bomber</a></td>
         <td>Hacking</td>
-        <td>A message box bomber tool on windows(s). Have startup and customize settings.</td>
+        <td>A message box bomber tool on windows(s). With startup and customize settings.</td>
         <td>C#</td>
       </tr>
       <tr>
@@ -167,7 +167,6 @@ Thank you very much for understanding me.
       <li>💬 Telegram:       <a href="Https://t.me/WitBlack_ch">@WitBlack_ch</a></li>
       <li>💻 Web:       <a href="Https://BugZone.ir">BugZone.ir</a></li>
       <li>📹 YouTube:       <a href="Https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg">Https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg</a> (WitBlack)</li>
-      <li>⌨️ Github:       <a href="Https://github.com/WitBlack">Https://github.com/WitBlack</a></li>
   </ul>
 </p>
 
