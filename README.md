@@ -165,7 +165,7 @@ Thank you very much for understanding.
 <p>
   <ul>
       <li>💬 Telegram:       <a href="Https://t.me/WitBlack_ch">@WitBlack_ch</a></li>
-      <li>💻 Web:       <a href="Https://BugZone.ir">BugZone.ir</a></li>
+      <li>💻 Web:       <a href="Https://BugZone.org">BugZone.org</a></li>
       <li>📹 YouTube:       <a href="Https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg">Https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg</a> (WitBlack)</li>
   </ul>
 </p>
@@ -174,8 +174,8 @@ Thank you very much for understanding.
 <h4>Contact me</h4>
 <p>
   <ul>
-      <li>📧 E-Mail:       <a href="mailto:admin@bugzone.ir">admin@bugzone.ir</a></li>
-      <li>💻 Web:       <a href="Https://BugZone.ir">BugZone.ir</a></li>
+      <li>📧 E-Mail:       <a href="mailto:admin@bugzone.org">admin@bugzone.org</a></li>
+      <li>💻 Web:       <a href="Https://BugZone.org">BugZone.org</a></li>
   </ul>
 </p>
 <br/>
