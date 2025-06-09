@@ -52,7 +52,7 @@ Thank you very much for understanding.
         <td>4</td>
         <td><a href="https://github.com/witblack/snake_URLs">snake_URLs</a></td>
         <td>Hacking - Information</td>
-        <td>Search And Find Report Results From <a href="https://google.com">Google</a> - <a href="https://duckduckgo.com/">DocDocGO</a> - <a href="https://wikipedia.org">Wikipedia</a> And More.</td>
+        <td>Search And Find Report Results From <a href="https://google.com">Google</a> - <a href="https://duckduckgo.com/">DuckDuckGo</a> - <a href="https://wikipedia.org">Wikipedia</a> And More.</td>
         <td>Python 2</td>
       </tr>
       <tr>
